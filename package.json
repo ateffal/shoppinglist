@@ -1,0 +1,22 @@
+{
+  "name": "shoppinglist",
+  "version": "1.0.0",
+  "description": "Shopping list desktop app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "shoppinglist_electron"
+  },
+  "keywords": [
+    "shpping",
+    "list"
+  ],
+  "author": "Amine TEFFAL",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^2.0.4"
+  }
+}
